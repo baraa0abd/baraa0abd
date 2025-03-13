@@ -4,8 +4,6 @@
 </br>
 - 🌱 I’m currently learning **CyberSecurity and develop my backend skills**
 
-- 👯 I’m looking to collaborate on **Library project**
-
 - 💬 Ask me about **react.js ,next.js,python(Django),html,css,Database**
 
 - 📫 How to reach me **baraaabdulrahman68@gmail.com**
